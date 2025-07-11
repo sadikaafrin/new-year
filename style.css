@@ -256,12 +256,12 @@ body {
   font-size: 16px;
   font-weight: bold;
   margin: 10px 0 6px;
-  color: #2b2c34;
+  color: #1E1E1E;
 }
 
 .feedback-card p {
   font-size: 14px;
-  color: #555;
+  color: #1E1E1E;
   line-height: 1.5;
 }
 
